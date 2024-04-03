@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Kasutubh</h2>
+<h2 align="center">Hi 👋, I'm Kaustubh</h2>
 <h3 align="center">I like building mobile apps with Flutter and back-end applications in Spring Framework. </h3>
 <h3 align="center">Want to solve a real-world problem with tech ? COUNT ME IN!</h3>
 
